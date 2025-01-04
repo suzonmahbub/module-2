@@ -1,0 +1,46 @@
+h2 {
+    text-align: center;
+    font-size: 32px;
+    color: tomato;
+    text-transform: capitalize;
+}
+
+h3 {
+    text-align: center;
+    text-transform: capitalize;
+    color: skyblue;
+    font-size: 24px;
+}
+
+p {
+    text-align: center;
+    color: orangered;
+    font-size: 20px;
+}
+
+ol {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ol li {
+    font-size: 18px;
+}
+
+.rice {
+    background-color: blue;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 5px;
+}
+
+.dal {
+    background-color: cadetblue;
+    color: yellow;
+    padding: 2px 12px;
+    border-radius: 5px;
+}
